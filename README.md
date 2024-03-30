@@ -16,4 +16,16 @@ This project aims to develop a real-time bus-tracking system for students and ad
 
 # Project Demo
 
-![Login](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/71d9ea43-e7e0-4259-ae1f-9f670e992f91)
+[Login](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/71d9ea43-e7e0-4259-ae1f-9f670e992f91)
+![Buses_Map](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/abfb1cb3-29fe-4496-820b-de92eefb2158)
+![Bus_Route](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/2c096cdc-079e-4a17-ae73-db803dc4bce7)
+![Noticeboard
+![Registration](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/b
+![UserProfiling](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/cb26c0ee-9ec3-43c0-93a5-8e49294e58e0)
+![Seats_Availability](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/e6f7a49f-7b8f-46af-9e35-62cfbd428dc7)
+7817f1e-eef4-42d0-90f7-fa245b50b684)
+](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/2e228d
+![Profile](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/d3f1289f-e3cf-4214-9f3b-435f0fd3f1e0)
+79-0405-45fb-99fa-1eb6588710c4)
+
+
