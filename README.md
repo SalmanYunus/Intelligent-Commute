@@ -4,7 +4,7 @@ Pioneering an Intelligent Real-Time Bus Tracking System with Online Registration
 
 ### Introduction:
 
-The public prefers bus transport because it is the most practical mode of travel among all available options. Buses are the most practical and affordable mode of transportation, particularly in colleges and universities. Students may choose to use the bus over other modes of transportation for a number of reasons, including the scarcity of parking spaces at universities, inconvenience, traffic jams, the opportunity for more social engagement, and safety concerns. For several reasons including convenience and security, tracking the position of vehicles has become quite important. This project focuses on how Students may track the precise location of their specific bus in real-time, and if an emergency is declared by the administration, it will be communicated to Students via a virtual notice board. Additionally, the administrator may manage the registration system online, which minimizes the manual labor required to complete the registration forms and track the real-time location of all the buses that are available.
+The public favors bus transport due to its practicality and affordability, especially in academic settings like colleges and universities where parking is scarce and traffic congestion is common. Students prefer buses for their convenience, social opportunities, and safety. To enhance the experience, a project is underway to enable students to track their bus's real-time location. In case of emergencies, alerts will be communicated via a virtual notice board. Furthermore, administrators can streamline registration and monitor all buses' locations online, reducing manual effort.
 
 ### Problem Statement:
 
