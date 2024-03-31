@@ -16,15 +16,21 @@ This project aims to develop a real-time bus-tracking system for students and ad
 
 # Project Demo
 
-![Login](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/71d9ea43-e7e0-4259-ae1f-9f670e992f91)
-![Buses_Map](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/abfb1cb3-29fe-4496-820b-de92eefb2158)
-![Bus_Route](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/2c096cdc-079e-4a17-ae73-db803dc4bce7)
-![Noticeboard
-![Registration](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/b
-![UserProfiling](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/cb26c0ee-9ec3-43c0-93a5-8e49294e58e0)
-![Seats_Availability](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/e6f7a49f-7b8f-46af-9e35-62cfbd428dc7)
-7817f1e-eef4-42d0-90f7-fa245b50b684)](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/2e228d
-![Profile](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/d3f1289f-e3cf-4214-9f3b-435f0fd3f1e0)
-79-0405-45fb-99fa-1eb6588710c4)
+![Login](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/275f0ff6-f04f-4f9e-836c-7e34dca55740)
+# 
+![Registration](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/8855b19a-cea1-4ff5-9e56-960f2b28c1ff)
+#
+![Noticeboard](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/356bb161-dff9-4d18-8b53-566b9a8fe244)
+#
+![Profile](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/b3b9f74f-15aa-4aec-aae1-68302e3a954d)
+#
+![UserProfiling](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/b9700553-6633-4a45-9059-39c6c9f65622)
+#
+![Buses_Map](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/35c65b25-5944-4e54-9826-f1d0bb83cfe6)
+#
+![Bus_Route](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/bdb6569d-ff6a-4415-bb7c-ac6ce952f7a3)
+#
+![Seats_Availability](https://github.com/SalmanYunus/Intelligent-Commute/assets/164797752/137841b0-149d-4e9d-a5e2-6860b7aca115)
+
 
 
