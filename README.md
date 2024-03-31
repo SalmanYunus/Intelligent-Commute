@@ -2,8 +2,6 @@
 
 Pioneering an Intelligent Real-Time Bus Tracking System with Online Registration and Monitoring. Features include dynamic scheduling, complaint/suggestion analysis for transit facility optimization.
 
-[Project Demonstration](https://drive.google.com/file/d/1FI7kKbac_1kAQJhm7TofMShYqt5z7BZT/view?usp=drive_link)
-
 ### Introduction:
 
 The public favors bus transport due to its practicality and affordability, especially in academic settings like colleges and universities where parking is scarce and traffic congestion is common. Students prefer buses for their convenience, social opportunities, and safety. To enhance the experience, a project is underway to enable students to track their bus's real-time location. In case of emergencies, alerts will be communicated via a virtual notice board. Furthermore, administrators can streamline registration and monitor all buses' locations online, reducing manual effort.
